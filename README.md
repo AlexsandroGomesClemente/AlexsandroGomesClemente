@@ -1,4 +1,4 @@
-### Olá eu sou o Alexsandro e seja Bem-vindo ! 
+###  😄 Olá eu sou o Alexsandro e seja Bem-vindo ao meu GITHUB! 
 <div align="center">
   <a href="https://github.com/AlexsandroGomesClemente">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlexsandroGomesClemente&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
